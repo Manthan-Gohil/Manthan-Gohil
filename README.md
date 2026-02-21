@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
 Computer Science undergraduate focused on building real-world systems using strong backend architecture, structured AI workflows, and clean frontend engineering.
 
@@ -106,4 +106,3 @@ GitHub: https://github.com/Manthan-Gohil
 
 ---
 
-> Engineer focused on building scalable systems, intelligent automation, and production-grade applications.
